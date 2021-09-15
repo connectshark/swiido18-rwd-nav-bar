@@ -9,3 +9,7 @@
 - vue-router4
 - scss
 - github action自動部署至 `gh-page`
+
+## 參考切版
+
+[走糖](http://swiido18.com/)

@@ -20,11 +20,12 @@ export default {
 
 <style lang="scss">
 #app {
-  font-family: 'Roboto Mono', monospace, 'openhuninn', 'Noto Sans TC', sans-serif;
-  text-align: center;
-}
-.title{
-  font-size: 30px;
-  line-height: 1.9;
+  font-family: 'Nunito', sans-serif;
+  min-height: 100vh;
+  background-color: #faa;
+  img{
+    width: 100%;
+    vertical-align: middle;
+  }
 }
 </style>
