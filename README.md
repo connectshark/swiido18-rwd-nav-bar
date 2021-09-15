@@ -1,4 +1,4 @@
-# vite-template
+# swiido18-rwd-nav-bar
 
 快速開發模板架構
 
