@@ -1,5 +1,5 @@
 <template>
-  <h2 class="title">第一頁由此開始</h2>
+<div class="home"></div>
 </template>
 
 <script>
@@ -11,6 +11,3 @@ export default {
   }
 }
 </script>
-
-<style lang="scss" scoped>
-</style>
